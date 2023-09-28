@@ -30,4 +30,4 @@ def backupToZip(folder, destination_folder):
     print('Done.')
 
 # Example usage:
-backupToZip('/Users/divyanshverma/Desktop/5th_sem', '/Users/divyanshverma/Desktop')
+backupToZip('/path/to/your/source_folder', '/path/to/your/destination_folder')
